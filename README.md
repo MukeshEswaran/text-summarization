@@ -42,12 +42,6 @@ pip install -r requirements.txt
    
 7. Open your local host and port to access the application.
 
-## Author
-
-- G S SRENATH KUMAR
-- Data Scientist
-- Email: gssrenathkumar2002@gmail.com
-
 # AWS-CICD-Deployment-with-Github-Actions
 
 ## 1. Login to AWS console.
